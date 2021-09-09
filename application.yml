@@ -3,7 +3,7 @@
     register-with-eureka: true
     fetch-registry: true
     serviceUrl:
-         defaultZone: http://0.0.0.0:8761/eureka
+         defaultZone: http://localhost:8761/eureka
       
   instance:
     hostname: localhost
